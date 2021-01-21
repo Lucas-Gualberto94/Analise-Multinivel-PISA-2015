@@ -1,2 +1,2 @@
 # Analise-Multinivel-PISA-2015
-Repositório criado para agrupar todos os códigos utilizados nas análises multiníveis realizadas no meu mestrado com os dados do PISA 2015
+Repositório criado para agrupar todos os códigos utilizados nas análises multiníveis realizadas no R Studio para o meu mestrado com os dados do programa internacional de avaliação do estudantes - PISA (Programme for International Student Assessment) 2015, promovido pela Organização para Co-operação e desenvolvimento economico (Organisation for Economic Co-operation and Development - OCDE).
